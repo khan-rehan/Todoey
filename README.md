@@ -7,7 +7,7 @@
 - Any Operating System (i.e. MacOS X, Linux, WIndows)
 - IDE (i.e. VsCode, Android Studio)
 - **Flutter plugin** if not there [Click here to install](https://flutter.dev/docs/get-started/install)
-- Simulator/Emulator/A real device connected to the system.
+- Simulator/Emulator/A real mobile device connected to the system.
 
 ---
 How to run:
