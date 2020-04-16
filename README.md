@@ -1,12 +1,13 @@
 # Todoey
-- A todo app.
+- A todo app for both Ios & Android.
 
 ---
 🖥Requirements
 
 - Any Operating System (i.e. MacOS X, Linux, WIndows)
-- IDE (i.e. VsCode, Android)
+- IDE (i.e. VsCode, Android Studio)
 - **Flutter plugin** if not there [Click here to install](https://flutter.dev/docs/get-started/install)
+- Simulator/Emulator/A real device connected to the system.
 
 ---
 How to run:
