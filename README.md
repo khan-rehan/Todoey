@@ -1,4 +1,4 @@
-# Todoey [![Author -Rehan Khan](https://img.shields.io/badge/Author-Rehan%20Khan-blue)]
+# Todoey ![Author -Rehan Khan](https://img.shields.io/badge/Author-Rehan%20Khan-blue)
 - A todo app for both Ios & Android.
 
 ---
