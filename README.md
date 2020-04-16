@@ -2,7 +2,24 @@
 - A todo app.
 
 ---
+🖥Requirements
+
+- Any Operating System (i.e. MacOS X, Linux, WIndows)
+- IDE (i.e. VsCode, Android)
+- **Flutter plugin** If not there [Click here to install](https://flutter.dev/docs/get-started/install)
+
+---
+How to run:
+```
+- Download the source code by using command "git clone https://github.com/khan-rehan/Todoey.git" in command line.
+- Open the project in Android studio/Vscode and also open the simulator/emulator.
+- Now do the following 
+    1. Type flutter get packages in terminal of Studio/VsCode.
+    2. Click on run in Android studio/ type "flutter run" in terminal of VsCode and there you go!.
+```
+---
 `📸 Screenshots:`
+
 `App Icon:`
 
 <img width="77" alt="Screenshot 2019-08-24 at 7 14 26 PM" src="https://user-images.githubusercontent.com/42263217/63638255-81bb1080-c6a3-11e9-8b2e-94e94e37326b.png">
